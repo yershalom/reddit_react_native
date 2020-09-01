@@ -8,17 +8,17 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react-native": "^0.63.2",
     "react-native-navigation": "^2.0.0",
     "react-native-ui-lib": "^3.3.239"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.116",
     "@types/react": "^16.4.14",
     "@types/react-native": "^0.56.23",
-    "@types/lodash": "^4.14.116",
     "@types/react-native-navigation": "^2.0.0",
-    "babel-jest": "23.6.0",
-    "jest": "23.6.0",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2",
     "lodash": "latest",
     "react-native-typescript-transformer": "^1.2.10",
     "react-test-renderer": "16.5.0",
